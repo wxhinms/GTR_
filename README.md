@@ -9,9 +9,6 @@ This is a PyTorch implementation of the paper: General Multi-View Trajectory Rep
     -A Nvidia GPU with cuda 11.7
     -Please refer to the 'requirement.txt' to install all required packages
 
-## Requirements
-The model is implemented using Python3 with dependencies specified in requirements.txt
-
 ## Datasets Description & Preprocessing
 You can access our data [here](https://pan.quark.cn/s/e92cc7ffe980)
 The folder contains a total of two datasets, Beijing and porto

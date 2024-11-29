@@ -1,5 +1,6 @@
 # GTR 
 This is a PyTorch implementation of the paper: GTR: General Multi-View Trajectory Representation Learning via Pre-train and Fine-tune
+
 ![Overview](./framework.png)
 
 ## Environment Preparation

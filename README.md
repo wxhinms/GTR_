@@ -11,7 +11,7 @@ This is a PyTorch implementation of the paper: GTR: General Multi-View Trajector
     -Please refer to the 'requirement.txt' to install all required packages
 
 ## Datasets Description & Preprocessing
-You can access our data[here](https://pan.quark.cn/s/e92cc7ffe980)
+You can access our [data](https://pan.quark.cn/s/e92cc7ffe980)
 The folder contains a total of two datasets, Beijing and porto
 
 ### Pre-training
